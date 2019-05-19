@@ -23,6 +23,7 @@ layout: default
 ## Post
 
 1. [Music](./posts/music/index.md)
+2. [Opinion](./posts/opinion/index.md)
 
 <!--
 ## Publications
