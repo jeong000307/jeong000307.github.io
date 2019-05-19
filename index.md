@@ -1,4 +1,5 @@
 ---
+title : Gyu-Yong Jeong's Homepage
 layout: default
 ---
 
