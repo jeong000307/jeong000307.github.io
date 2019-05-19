@@ -5,8 +5,6 @@ layout: default
 
 ## About Me
 
-Gyu-Yong Jeong
-
 Hello! I am a freshman year student of B.E. Computer Science at Sogang University.
 
 ## Research Interest
@@ -23,9 +21,9 @@ Artificial Intelligence, Operating System, Compiler, and Programming Language.
 1. [AI Scheduler](researchs/AI_Scheduler.md)
 2. [AI Code Generator](researchs/AI_Code_Generator.md)
 
-## Post
+## Posts
 
-1. [Study](./posts/study/index.md)
+1. [Wiki](./posts/wiki/index.md)
 2. [Opinion](./posts/opinion/index.md)
 3. [Music](./posts/music/index.md)
 
