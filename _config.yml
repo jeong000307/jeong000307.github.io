@@ -27,7 +27,7 @@ nav:
    link: "contact"
 
 collections:
-	_projects:
-		output: true
-	_researchs:
-		output: true
+  _projects:
+    output: true
+  _researchs:
+    output: true
