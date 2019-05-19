@@ -4,6 +4,8 @@ layout: default
 
 ## About Me
 
+Gyu-Yong Jeong
+
 Hello! I am a junior year student of B.E. Computer Science at Sogang University.
 
 ## Research Interest
