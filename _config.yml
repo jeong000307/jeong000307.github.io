@@ -6,7 +6,7 @@ baseurl:
 
 markdown: kramdown
 
-plugins:
+gems:
   - jekyll-relative-links
 
 tracking_id: "UA-132865468-1"
