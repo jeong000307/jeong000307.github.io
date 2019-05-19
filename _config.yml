@@ -9,10 +9,6 @@ markdown: kramdown
 plugins:
   - jekyll-relative-links
 
-relative_links:
-	enabled:     true
-	collections: false  
-
 tracking_id: "UA-132865468-1"
 
 footer		: yes
