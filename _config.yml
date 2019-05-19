@@ -1,8 +1,6 @@
 title: Researcher
-url: "https://jeong000307.github.io"
-baseurl:
-
-remote_theme: ankitsultana/researcher@gh-pages
+url: "https://ankitsultana.com"
+baseurl: "/researcher"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
