@@ -10,6 +10,20 @@ layout: default
 
 저는 운영체제나 컴파일러 등 시스템 소프트웨어에 대해 인공지능을 접목시켜 성능을 최적화시키는 것에 흥미를 갖고 있고, 이를 연구하고 있습니다.
 
+## Projects
+
+1. [Operating System](_projects/Operating_System.md)
+2. [Compiler](_projects/Compiler.md)
+
+## Researchs
+
+1. [AI Scheduler](_researchs/AI_Scheduler.md)
+2. [AI Code Generator](_researchs/AI_Code_Generator.md)
+
+## Post
+
+1. [Music](_posts/music/index.md)
+
 <!--
 ## Publications
 
