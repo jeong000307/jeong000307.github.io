@@ -20,9 +20,9 @@ sass:
 
 nav:
  - name: "About"
- 	link: "/researcher/"
+# 	link: "/researcher/"
  - name: "Resume"
-   link: "resume.pdf"
+#   link: "resume.pdf"
  - name: "Contact"
    link: "contact"
 
