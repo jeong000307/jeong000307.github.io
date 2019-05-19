@@ -12,7 +12,7 @@ layout: default
 
 ## Projects
 
-1. [Operating System]({% link _projects/Operating_System.md %})
+1. [Operating System]({% post_url _projects/Operating_System.md %})
 2. [Compiler](./_projects/Compiler.md)
 
 ## Researchs
