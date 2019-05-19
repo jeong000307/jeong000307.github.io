@@ -7,7 +7,7 @@ layout: default
 
 Gyu-Yong Jeong
 
-Hello! I am a junior year student of B.E. Computer Science at Sogang University.
+Hello! I am a freshman year student of B.E. Computer Science at Sogang University.
 
 ## Research Interest
 
