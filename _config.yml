@@ -25,3 +25,9 @@ nav:
  #  link: "resume.pdf"
  - name: "Contact"
    link: "contact"
+
+collections:
+	_projects:
+		output: true
+	_researchs:
+		output: true
