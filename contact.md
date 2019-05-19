@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-* Email: [jeong000307@icloud.com](mailto:jeong000307@icloud.com)
+* Email: [jeong000307@sogang.ac.kr](mailto:jeong000307@sogang.ac.kr)
 
 <!--
 * Phone: [+91-123123](tel:+91-123123)
