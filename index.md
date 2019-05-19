@@ -4,16 +4,13 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
-
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
-
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+안녕하세요! 저는 서강대학교 컴퓨터공학과에 재학 중인 정규용이라고 합니다.
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+저는 운영체제나 컴파일러 등 시스템 소프트웨어에 대해 인공지능을 접목시켜 성능을 최적화시키는 것에 흥미를 갖고 있고, 이를 연구하고 있습니다.
 
+<!--
 ## Publications
 
 1. F.Bar, J.Doe: Effects of having a placeholder of a name
@@ -43,3 +40,5 @@ Here is a blockquote
 
 * Foo Bar: Head of Department, Placeholder Names, Lorem
 * John Doe: Associate Professor, Department of Computer Science, Ipsum
+
+-->

@@ -1,26 +1,25 @@
 # Site Settings
-locale                   : "ko-KR"
-title                    : "jeong000307's Blog"
-url                      : "https://jeong000307.github.io"
+locale : "ko-KR"
+title  : "jeong000307's Blog"
+url    : "https://jeong000307.github.io"
 baseurl:
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
 
 tracking_id: "UA-132865468-1"
 
-footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer		: yes
+footer_url	: "https://github.com/jeong000307"
+footer_text	: "By Gyu-Yong Jeong"
 
 sass:
     style: compressed
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+  - name: "About"
+	link: "/researcher/"
+ #- name: "Resume"
+ #  link: "resume.pdf"
+  - name: "Contact"
+   	link: "contact"
