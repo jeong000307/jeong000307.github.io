@@ -4,16 +4,16 @@ layout: default
 
 ## About Me
 
-안녕하세요! 저는 서강대학교 컴퓨터공학과에 재학 중인 정규용이라고 합니다.
+Hello! I am a junior year student of B.E. Computer Science at Sogang University.
 
 ## Research Interest
 
-저는 운영체제나 컴파일러 등 시스템 소프트웨어에 대해 인공지능을 접목시켜 성능을 최적화시키는 것에 흥미를 갖고 있고, 이를 연구하고 있습니다.
+Artificial Intelligence, Operating System, Compiler, and Programming Language.
 
 ## Projects
 
 1. [Operating System](projects/Operating_System.md)
-2. [Compiler](projects/Compiler.md)
+2. [Programming Language](projects/Programming_Language.md)
 
 ## Researchs
 
@@ -22,8 +22,9 @@ layout: default
 
 ## Post
 
-1. [Music](./posts/music/index.md)
+1. [Study](./posts/study/index.md)
 2. [Opinion](./posts/opinion/index.md)
+3. [Music](./posts/music/index.md)
 
 <!--
 ## Publications
