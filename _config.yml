@@ -2,7 +2,7 @@
 locale : "ko-KR"
 title  : "jeong000307's Blog"
 url    : "https://jeong000307.github.io"
-baseurl:
+baseurl: ""
 
 markdown: kramdown
 
