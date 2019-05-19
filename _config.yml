@@ -2,7 +2,7 @@ title: Researcher
 url: "https://jeong000307.github.io"
 baseurl:
 
-remote_theme: ankitsultana/researcher
+remote_theme: ankitsultana/researcher@gem
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
