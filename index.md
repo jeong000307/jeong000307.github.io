@@ -12,9 +12,10 @@ layout: default
 
 ## Projects
 
-1. [Operating System](./_posts/_projects/Operating_System.md)
-2. [Compiler](./_posts/_projects/Compiler.md)
+1. [Operating System]({% link _posts/projects/Operating_System.md %})
+2. [Compiler]({% link _posts/projects/Compiler.md %})
 
+<!--
 ## Researchs
 
 1. [AI Scheduler](./_posts/_researchs/AI_Scheduler.md)
@@ -23,6 +24,8 @@ layout: default
 ## Post
 
 1. [Music](./_posts/music/index.md)
+
+-->
 
 <!--
 ## Publications
