@@ -23,8 +23,3 @@ nav:
  #  link: "resume.pdf"
  - name: "Contact"
    link: "contact"
-
-
-collections:
-	- projects
-	- researchs
