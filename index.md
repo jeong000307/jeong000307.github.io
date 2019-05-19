@@ -12,17 +12,17 @@ layout: default
 
 ## Projects
 
-1. [Operating System](./_projects/Operating_System.md)
-2. [Compiler](./_projects/Compiler.md)
+1. [Operating System](./_projects/Operating_System.html)
+2. [Compiler](./_projects/Compiler.html)
 
 ## Researchs
 
-1. [AI Scheduler](./_researchs/AI_Scheduler.md)
-2. [AI Code Generator](./_researchs/AI_Code_Generator.md)
+1. [AI Scheduler](./_researchs/AI_Scheduler.html)
+2. [AI Code Generator](./_researchs/AI_Code_Generator.html)
 
 ## Post
 
-1. [Music](./_posts/music/index.md)
+1. [Music](./_posts/music/index.html)
 
 <!--
 ## Publications
