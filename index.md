@@ -7,7 +7,7 @@ layout: default
 
 Hello! I am a freshman year student of B.E. Computer Science at Sogang University.
 
-## Research Interest
+## Research Interests
 
 Artificial Intelligence, Operating System, Compiler, and Programming Language.
 
@@ -19,7 +19,7 @@ Artificial Intelligence, Operating System, Compiler, and Programming Language.
 ## Researchs
 
 1. [AI Scheduler](researchs/AI_Scheduler.md)
-2. [AI Code Generator](researchs/AI_Code_Generator.md)
+2. [AI Optimizing Compiler](researchs/AI_Optimizing_Compiler.md)
 
 ## Posts
 
