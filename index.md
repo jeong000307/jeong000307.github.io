@@ -26,6 +26,7 @@ Artificial Intelligence, Operating System, Compiler, and Programming Language.
 1. [Wiki](./posts/wiki/index.md)
 2. [Opinion](./posts/opinion/index.md)
 3. [Music](./posts/music/index.md)
+4. [CSAT Solution](./posts/CSAT/index.md)
 
 <!--
 ## Publications
