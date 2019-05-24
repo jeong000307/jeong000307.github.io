@@ -11,7 +11,7 @@ tracking_id: "UA-132865468-1"
 permalink: none
 
 footer		: yes
-footer_url	: "https://github.com/jeong000307"
+footer_url	: "https://jeong000307.github.io"
 footer_text	: "By Gyu-Yong Jeong"
 
 sass:
@@ -19,10 +19,10 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
-# 	link: "/researcher/"
  - name: "CV"
-#   link: "resume.pdf"
+# 	link: "/researcher/"
+ - name: "GitHub"
+   link: "https://github.com/jeong000307"
  - name: "Contact"
    link: "contact"
 
