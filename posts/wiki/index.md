@@ -1,5 +1,6 @@
 ---
 layout: default
+title : Wiki
 ---
 
 I'm working on.

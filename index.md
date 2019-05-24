@@ -26,6 +26,7 @@ Operating System with Aritificial Intelligence, Programming Language, Compiler D
 2. [Opinion](./posts/opinion/index.md)
 3. [Music](./posts/music/index.md)
 4. [CSAT Solution](./posts/CSAT/index.md)
+5. [PS Solution](./posts/PS/index.md)
 
 <!--
 ## Publications
