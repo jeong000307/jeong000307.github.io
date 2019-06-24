@@ -21,8 +21,6 @@ sass:
 nav:
  - name: "CV"
 # 	link: "/researcher/"
- - name: "GitHub"
-   link: "https://github.com/jeong000307"
  - name: "Contact"
    link: "contact"
 

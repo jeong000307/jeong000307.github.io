@@ -7,6 +7,8 @@ layout: default
 
 Hello! I am a freshman year student of B.E. Computer Science at Sogang University.
 
+My GitHub : [Here](https://github.com/jeong000307)
+
 ## Research Interests
 
 Operating System with Aritificial Intelligence, Programming Language, Compiler Design.
