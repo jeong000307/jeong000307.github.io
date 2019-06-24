@@ -22,11 +22,12 @@ Operating System with Aritificial Intelligence, Programming Language, Compiler D
 
 ## Posts
 
-1. [Wiki](./posts/wiki/index.md)
-2. [Opinion](./posts/opinion/index.md)
-3. [Music](./posts/music/index.md)
-4. [CSAT Solution](./posts/CSAT/index.md)
-5. [PS Solution](./posts/PS/index.md)
+1. [Diary](./posts/diary/index.md)
+2. [Wiki](./posts/wiki/index.md)
+3. [Opinion](./posts/opinion/index.md)
+4. [Music](./posts/music/index.md)
+5. [CSAT Solution](./posts/CSAT/index.md)
+6. [PS Solution](./posts/PS/index.md)
 
 <!--
 ## Publications
