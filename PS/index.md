@@ -1,6 +1,6 @@
 ---
 layout: default
-title : PS Solving
+title : Problem Solving
 ---
 
 I'm working on.

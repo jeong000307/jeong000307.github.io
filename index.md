@@ -7,29 +7,22 @@ layout: default
 
 Hello! I am a freshman year student of B.E. Computer Science at Sogang University.
 
-My GitHub : [Here](https://github.com/jeong000307)
+## Mathematics
 
-## Research Interests
+1. [Calculus](./Math/Calculus/index.md)
 
-Operating System with Aritificial Intelligence, Programming Language, Compiler Design.
+## Problem Solving
 
-## Projects
+1. [USACO](./PS/USACO/index.md)
 
-1. [NGOS](projects/Operating_System.md)
-2. ['N' Language](projects/Programming_Language.md)
+## Project
 
-## Researchs
-
-1. [NGS](researchs/AI_Scheduler.md)
+1. ['N' Language](./projects/PL.md)
+2. [NGOS](./projects/OS.md)
 
 ## Posts
 
-1. [Diary](./posts/diary/index.md)
-2. [Wiki](./posts/wiki/index.md)
-3. [Opinion](./posts/opinion/index.md)
-4. [Music](./posts/music/index.md)
-5. [CSAT Solution](./posts/CSAT/index.md)
-6. [PS Solution](./posts/PS/index.md)
+1. [Blog](./posts/Blog/index.md)
 
 <!--
 ## Publications
