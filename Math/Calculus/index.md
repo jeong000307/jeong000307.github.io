@@ -29,7 +29,7 @@ James Stewart의 Calculus : Early Transcendentals를 통해 공부하였습니�
 2. [평균값 정리](./4/MVT.md)
 3. [도함수를 이용한 함수 추론](./4/Affect_of_Derivatives.md)
 4. [로피탈의 법칙](./4/L'Hospital's_Rule.md)
-5. [뉴턴 방법](./4/Newton_Method.md)
+5. [뉴턴 방법](./4/Newton_Method.md)
 6. [역도함수](./4/Antiderivatives.md)
 
 ## Integrals
