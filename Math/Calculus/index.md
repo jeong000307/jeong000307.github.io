@@ -8,33 +8,39 @@ James Stewart의 Calculus : Early Transcendentals를 통해 공부하였습니�
 
 ## Functions and Models
 
-1. [함수와 그 종류](./1/Functions.md)
-2. [역함수와 역삼각함수](./1/Inverse_Functions.md)
+1. [Functions and Kind of Functions](./1/Functions.md)
+2. [Inverse Functions and Inverse Trigonometric Functions](./1/Inverse_Functions.md)
 
 ## Limits and Derivatives
 
-1. [극한의 정의와 그 연산](./2/Limit.md)
-2. [연속과 사잇값 정리](./2/Continuous.md)
-3. [미분계수와 도함수](./2/Derivatives.md)
+1. [Definition of Limit and Limit Laws](./2/Limit.md)
+2. [Continuous and Intermediate Value Theorem](./2/Continuous.md)
+3. [Differential Coefficient and Derivatives](./2/Derivatives.md)
 
 ## Differentiation Rules
 
-1. [미분법](./3/Differentiation_Rules.md)
-2. [연쇄 법칙과 음함수의 미분법](./3/Chain_Rule.md)
-3. [쌍곡선 함수](./3/Hyperbolic_Function.md)
+1. [Differentiation Rules](./3/Differentiation_Rules.md)
+2. [Chain Rules and Differentiation of Implicit Function](./3/Chain_Rule.md)
+3. [Hyperbolic Functions](./3/Hyperbolic_Functions.md)
 
 ## Applications of Differentiation
 
-1. [극값](./4/Local_Extreme_Value.md)
-2. [평균값 정리](./4/MVT.md)
-3. [도함수를 이용한 함수 추론](./4/Affect_of_Derivatives.md)
-4. [로피탈의 법칙](./4/L'Hospital's_Rule.md)
-5. [뉴턴 방법](./4/Newton_Method.md)
-6. [역도함수](./4/Antiderivatives.md)
+1. [Maximum and Minimum Values](./4/Extreme_Value.md)
+2. [Mean Value Theorem](./4/MVT.md)
+3. [Relation between Functions and its Derivatives](./4/Affect_of_Derivatives.md)
+4. [L'Hospital's Rule](./4/L'Hospital's_Rule.md)
+5. [Newton Method](./4/Newton_Method.md)
+6. [Antiderivatives](./4/Antiderivatives.md)
 
 ## Integrals
 
-1. [정적분](./5/Definite_Integral.md)
-2. [미적분학의 기본정리](./5/FToC.md)
-3. [부정적분](./5/Indefinite_Integral.md)
-4. [치환적분](./5/Subtitution_Rule.md)
+1. [Definite Integral](./5/Definite_Integral.md)
+2. [Fundemental Theorem of Calculus](./5/FToC.md)
+3. [Indefinite Integral](./5/Indefinite_Integral.md)
+4. [Subtitution Rule](./5/Subtitution_Rule.md)
+
+## Application of Integration
+
+1. [Area and Volumes](./6/Area.md)
+2. [Cylindrical Shell Method](./6/Cylindrical_Shell.md)
+3. [Mean Value Theorem for Integrals](./6/MVT_Integrals.md)
