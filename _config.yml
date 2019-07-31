@@ -5,6 +5,7 @@ url    : "https://jeong000307.github.io"
 baseurl: ""
 
 markdown: kramdown
+use_math: true
 
 tracking_id: "UA-132865468-1"
 
@@ -19,7 +20,7 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "CV"
+# - name: "CV"
 # 	link: "/researcher/"
  - name: "Contact"
    link: "contact"

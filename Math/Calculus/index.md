@@ -37,10 +37,20 @@ James Stewart의 Calculus : Early Transcendentals를 통해 공부하였습니�
 1. [Definite Integral](./5/Definite_Integral.md)
 2. [Fundemental Theorem of Calculus](./5/FToC.md)
 3. [Indefinite Integral](./5/Indefinite_Integral.md)
-4. [Subtitution Rule](./5/Subtitution_Rule.md)
+4. [Substitution Rule](./5/Subtitution_Rule.md)
 
 ## Application of Integration
 
 1. [Area and Volumes](./6/Area.md)
 2. [Cylindrical Shell Method](./6/Cylindrical_Shell.md)
 3. [Mean Value Theorem for Integrals](./6/MVT_Integrals.md)
+
+## Techiques of Integration
+
+1. [Integration by Parts](./7/Integration_by_Parts.md)
+2. [Trigonometric Substitution](./7/Trigonometric_Substitution.md)
+3. [Integration of Rational Functions](./7/Integration_of_Rational_Functions.md)
+4. [Approximate Integration](./7/Approximate_Integration.md)
+5. [Improper Integrals](./7/Improper_Integrals.md)
+
+## Further Applications of Integration
