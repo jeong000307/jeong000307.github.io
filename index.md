@@ -5,7 +5,7 @@ layout: default
 
 ## About Me
 
-Hello! I am a freshman year student of B.E. Computer Science at Sogang University.
+Hello! I am Gyu-Yong Jeong, a freshman year student of B.E. Computer Engineering and Science at Sogang University.
 
 ## Mathematics
 
@@ -17,12 +17,12 @@ Hello! I am a freshman year student of B.E. Computer Science at Sogang Universit
 
 ## Project
 
-1. ['N' Language](./projects/PL.md)
-2. [NGOS](./projects/OS.md)
+1. ['N' Language](./Projects/PL.md)
+2. [NGOS](./Projects/OS.md)
 
 ## Posts
 
-1. [Blog](./posts/Blog/index.md)
+1. [Blog](./Posts/Blog/index.md)
 
 <!--
 ## Publications
