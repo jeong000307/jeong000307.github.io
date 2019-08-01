@@ -54,3 +54,45 @@ James Stewart의 Calculus : Early Transcendentals를 통해 공부하였습니�
 5. [Improper Integrals](./7/Improper_Integrals.md)
 
 ## Further Applications of Integration
+
+1. [Arc Length](./8/Arc_Length.md)
+2. [Area of Surface a Revolution](./8/Area_of_Surface_a_Revolution.md)
+
+## Differential Equations
+
+## Parametric Equations and Polar Coordinates
+
+1. [Parametric Equations](./10/Parametric_Equations.md)
+2. [Calculus with Parametric Equations](./10/Calculus_with_Parametric_Equations.md)
+3. [Polar Coordinates](./10/Polar_Coordinates.md)
+4. [Calculus with Polar Coordinates](./10/Calculus_with_Polar_Coordinates.md)
+
+## Infinite Sequences and Series
+
+1. [Sequences and Series](./11/Sequences_and_Series.md)
+2. [Kind of Series Test](./11/Kind_of_Series_Test.md)
+3. [Power Series and Taylor Series](./11/Power_Series_and_Taylor_Series.md)
+
+## Vectors and the Geometry of Space
+
+1. [Vectors](./12/Vectors.md)
+2. [Dot Product and Cross Product](./12/Dot_Product_and_Cross_Product.md)
+3. [Geometry of Space](./12/Geometry_of_Space.md)
+
+## Vector Functions
+
+1. [Vector Functions](./13/Vector_Functions.md)
+2. [Calculus with Vector Functions](./13/Calculus_with_Vector_Functions.md)
+
+## Partial Derivatives
+
+1. [Functions of Several Variables](./14/Functions_of_Several_Variables.md)
+2. [Its Limits and Continuity](./14/Its_Limits_and_Continuity.md)
+3. [Partial Derivatives](./14/Partial_Derivatives.md)
+4. [Linear Approximation](./14/Linear_Approximation.md)
+5. [Chain Rule](./14/Chain_Rule.md)
+6. [Directional Derivatives and the Gradient Vector](./14/Directional_Derivatives_and_the_Gradient_Vector.md)
+7. [Maximum and Minimum Values](./14/Extreme_Value.md)
+8. [Lagrange Multipliers](./14/Lagrange_Multipliers.md)
+
+## Multiple Integrals
