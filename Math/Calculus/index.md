@@ -8,9 +8,6 @@ title : Calculus
 ## Limits and Derivatives
 
 1. [Definition of Limit and Limit Laws](./2/1.md)
-
-<!--
-
 2. [Continuous and Intermediate Value Theorem](./2/2.md)
 3. [Differential Coefficient and Derivatives](./2/3.md)
 
@@ -80,6 +77,7 @@ title : Calculus
 2. [Calculus with Vector Functions](./13/2.md)
 
 # Functions of Several Real Variables
+<!--
 
 ## Partial Derivatives
 
@@ -98,4 +96,5 @@ title : Calculus
 
 I'm working on...
 
-Reference : 'Calculus: Early Transcendentals', James Stewart.
+# Reference
+- 'Calculus: Early Transcendentals', James Stewart.
