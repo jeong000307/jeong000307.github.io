@@ -15,10 +15,13 @@ Hello! I am Gyu-Yong Jeong, a freshman year student of B.E. Computer Engineering
 
 1. [USACO](./PS/USACO/index.md)
 
+<!--
 ## Project
 
 1. ['N' Language](./Projects/PL.md)
 2. [NGOS](./Projects/OS.md)
+
+-->
 
 ## Posts
 
