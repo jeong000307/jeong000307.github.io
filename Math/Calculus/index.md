@@ -7,7 +7,7 @@ title : Calculus
 
 ## Limits and Derivatives
 
-1. [Definition of Limit and Limit Laws](./2/1.md)
+1. [Definition of Limit and Its Property](./2/1.md)
 2. [Continuous and Intermediate Value Theorem](./2/2.md)
 3. [Differential Coefficient and Derivatives](./2/3.md)
 
@@ -21,7 +21,7 @@ title : Calculus
 
 1. [Maximum and Minimum Values](./4/1.md)
 2. [Mean Value Theorem](./4/2.md)
-3. [Relation between Functions and its Derivatives](./4/3.md)
+3. [Relation between Functions and Its Derivatives](./4/3.md)
 4. [L'Hospital's Rule](./4/4.md)
 5. [Newton Method](./4/5.md)
 6. [Antiderivatives](./4/6.md)
