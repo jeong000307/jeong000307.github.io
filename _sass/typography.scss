@@ -26,7 +26,6 @@
     ol > li:before {
         content: "[" counter(list, decimal) "] ";
         counter-increment: list;
-        position: absolute;
         left: -30px;
     }
     blockquote {
@@ -54,7 +53,7 @@
         }
     }
     img {
-        text-align: center;
-        width: 100%;
+        display: block;
+        margin: auto;
     }
 }

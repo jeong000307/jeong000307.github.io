@@ -5,7 +5,10 @@ title : Set Theory
 
 ## Sets
 
-- [Introductions of Sets](./1/1.md)
+1. [Introductions of Sets](./1/1.md)
+2. [Properties](./1/2.md)
+3. [The Axioms](./1/3.md)
+4. [Elementary Operations on Sets](./1/4.md)
 
 I'm working on...
 

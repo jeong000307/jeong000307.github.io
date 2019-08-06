@@ -21,7 +21,7 @@ Hello! I am Gyu-Yong Jeong, a freshman year student of B.E. Computer Engineering
 
 ## Project
 
-- ['N' Language](./Projects/PL.md)
+- ['N' Language](./Projects/N_Language.md)
 
 ## Posts
 
