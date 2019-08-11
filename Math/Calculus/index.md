@@ -15,12 +15,12 @@ title : Calculus
 
 1. ~~The Tangent and Velocity Problems~~
 2. [The Limit of a Function](./2/2.md)
-3. [Calculating Limits Using the Limit Laws](./2/3.md)
-4. [The Precise Definition of a Limit](./2/4.md)
-5. [Continuity](./2/5.md)
-6. [Limits at Infinity; Horizontal Asymptotes](./2/6.md)
-7. [Derivatives and Rates of Change](./2/7.md)
-8. [The Derivative as a Function](./2/8.md)
+3. Calculating Limits Using the Limit Laws
+4. The Precise Definition of a Limit
+5. Continuity
+6. Limits at Infinity; Horizontal Asymptotes
+7. Derivatives and Rates of Change
+8. The Derivative as a Function
 
 I'm working on...
 

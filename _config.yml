@@ -5,7 +5,6 @@ url    : "https://jeong000307.github.io"
 baseurl: ""
 
 markdown: kramdown
-use_math: true
 
 tracking_id: "UA-132865468-1"
 
