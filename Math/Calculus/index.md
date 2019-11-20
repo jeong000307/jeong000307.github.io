@@ -1,6 +1,6 @@
 ---
 layout: default
-title : Calculus
+title: Calculus
 ---
 
 ## Functions and Models

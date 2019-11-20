@@ -7,8 +7,11 @@ baseurl: ""
 markdown: kramdown
 
 tracking_id: "UA-132865468-1"
+discus-identifier: jeong000307
 
 permalink: none
+
+
 
 footer		: yes
 footer_url	: "https://jeong000307.github.io"

@@ -1,9 +1,21 @@
 <script type="text/x-mathjax-config">
+    MathJax.Hub.Register.StartupHook("TeX Jax Ready", function () {
+	  	var TEX = MathJax.InputJax.TeX;
+	  	var PREFILTER = TEX.prefilterMath;
+	  	TEX.Augment({
+	  		prefilterMath: function (math, displaymode, script) {
+	  			math = "\\displaystyle{  " + math;
+	  			math = math + "  }";
+	  			return PREFILTER.call(TEX, math, displaymode, script);
+	  		}
+	  	});
+    });
+    
     MathJax.Hub.Config({
         TeX: {
-          equationNumbers: {
-            autoNumber: "AMS"
-          }
+            equationNumbers: {
+                autoNumber: "AMS"
+            }
         },
         tex2jax: {
         inlineMath: [ ['$', '$'] ],
@@ -11,13 +23,16 @@
         processEscapes: true,
       }
     });
+
     MathJax.Hub.Register.MessageHook("Math Processing Error",function (message) {
-          alert("Math Processing Error: "+message[1]);
-        });
+        alert("Math Processing Error: "+message[1]);
+    });
+
     MathJax.Hub.Register.MessageHook("TeX Jax - parse error",function (message) {
-          alert("Math Processing Error: "+message[1]);
-        });
+        alert("Math Processing Error: "+message[1]);
+    });
     </script>
+    
     <script type="text/javascript" async
       src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
     </script>
