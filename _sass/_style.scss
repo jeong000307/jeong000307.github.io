@@ -4,6 +4,11 @@
  * Basic
  */
 
+@font-face {
+    font-family: "YetHangul";
+    src: url( '../assets/fonts/YetHangul.otf') format( 'opentype');
+}
+
 html {
     height: 100%;
     margin: 0;
@@ -12,6 +17,7 @@ html {
 body {
     margin: 0;
     height: 100%;
+    font-family: "YetHangul";
     line-height: 150%;
 }
 a {
