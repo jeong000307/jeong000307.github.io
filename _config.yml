@@ -17,6 +17,10 @@ footer		: yes
 footer_url	: "https://jeong000307.github.io"
 footer_text	: "By Gyu-Yong Jeong"
 
+assets:
+    sources:
+        - _assets/fonts
+
 sass:
     style: compressed
     sass_dir: _sass
@@ -24,13 +28,13 @@ sass:
 nav:
 # - name: "CV"
 # 	link: "/researcher/"
- - name: "Contact"
-   link: "contact"
+  - name: "Contact"
+    link: "contact"
 
 collections:
-  Posts:
-    output: true
-  Projects:
-    output: true
-  Researchs:
-    output: true
+    Posts:
+        output: true
+    Projects:
+        output: true
+    Researchs:
+        output: true
