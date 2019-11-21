@@ -14,6 +14,14 @@ Hello! I am Gyu-Yong Jeong, a freshman year student of B.E. Computer Engineering
 - [Linear Algebra](./Math/Linear_Algebra/index.md)
 - [Number Theory](./Math/Number_Theory/index.md)
 
+## CSAT
+
+- [Korean](./CSAT/Korean/index.md)
+- [Mathematics](./CSAT/Math/index.md)
+- [English](./CSAT/English/index.md)
+- [Social Study](./CSAT/Social/index.md)
+- [Science](./CSAT/Science/index.md)
+
 ## Problem Solving
 
 - [USACO](./PS/USACO/index.md)
@@ -26,4 +34,3 @@ Hello! I am Gyu-Yong Jeong, a freshman year student of B.E. Computer Engineering
 ## Posts
 
 - [Blog](./Posts/Blog/index.md)
-- [CSAT](./Posts/CSAT/index.md)
