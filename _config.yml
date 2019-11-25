@@ -21,19 +21,9 @@ sass:
     sass_dir: _sass
 
 nav:
-# - name: "CV"
-# 	link: "/researcher/"
   - name: "Contact"
     link: "contact"
     ext : "false"
   - name: "GitHub"
     link: "https://github.com/jeong000307"
     ext : "true"
-
-collections:
-    Posts:
-        output: true
-    Projects:
-        output: true
-    Researchs:
-        output: true

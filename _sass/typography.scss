@@ -24,16 +24,17 @@
         margin: 0 5px 0 5px;
         padding: 0 5px 0 5px;
     }
+    ol > li:before {
+        font-weight: bold;
+        content: "[" counter(list, decimal) "] ";
+        counter-increment: list;
+    }
     ol > li {
         list-style-position: none;
         position: relative;
         list-style: none;
         margin: 5px 10px 5px 10px;
         left: -15px;
-    }
-    ol > li:before {
-        content: "[" counter(list, decimal) "] ";
-        counter-increment: list;
     }
 
     ul {
