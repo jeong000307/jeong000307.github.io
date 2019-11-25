@@ -1,6 +1,8 @@
 .pb {
     margin: 5px 0 5px 0;
     border: none;
+    margin-left: none;
+    margin-right: none;
     padding: 0;
 }
 .pb tr {
@@ -23,6 +25,8 @@
 table {
     margin: 5px 0 5px 0;
     border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
     padding: 0;
 }
 table tr {
