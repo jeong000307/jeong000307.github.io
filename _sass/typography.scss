@@ -7,57 +7,43 @@
     h4, h5, h6  {
         margin: 10px 0px 10px 0px;
     }
+
     p   {
         margin: 5px 0px 5px 0px;
     }
+    blockquote {
+        border: 1px solid black;
+        border-left: 3px solid #333333;
+        margin: 5px 0 5px 0;
+        padding: 5px 10px 5px 10px;
+        font-style: normal;
+    }
+
     ol {
         counter-reset: list;
+        margin: 0 5px 0 5px;
+        padding: 0 5px 0 5px;
     }
     ol > li {
         list-style-position: none;
         position: relative;
         list-style: none;
-        margin: 5px 0px 5px 0px;
-    }
-    ul > li {
-        margin: 5px 0 5px 0;
-    }
-    ul {
-        padding: 0 10px 0 10px;
-        margin: 0 0 0 0;
-    }
-    ol {
-        padding: 0 10px 0 10px;
+        margin: 5px 10px 5px 10px;
+        left: -15px;
     }
     ol > li:before {
         content: "[" counter(list, decimal) "] ";
         counter-increment: list;
-        left: -30px;
     }
-    blockquote {
-        border: 1px solid black;
-        border-left: 5px solid #333333;
-        margin: 10px 0 10px 0;
-        padding: 2px 8px 2px 8px;
-        font-style: normal;
+
+    ul {
+        margin: 0 5px 0 5px;
+        padding: 0 5px 0 5px;
     }
-    .profile-picture {
-        height: $image-size;
-        width: $image-size;
-        position: relative;
-        margin: -10px 0 0 15px;
-        float: right;
-        border-radius: 50%;
-        p & {
-            padding: 0;
-            margin: 0;
-        }
-        @media (max-width: $small-width) {
-            img {
-                margin-top: -5px;
-            }
-        }
+    ul > li {
+        margin: 5px 5px 5px 5px;
     }
+    
     img {
         display: block;
         margin: auto;

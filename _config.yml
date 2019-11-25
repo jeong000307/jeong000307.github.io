@@ -1,8 +1,9 @@
 # Site Settings
-locale : "ko-KR"
-title  : "Gyu-Yong Jeong"
-url    : "https://jeong000307.github.io"
-baseurl: ""
+locale  : "ko-KR"
+title   : "Gyu-Yong Jeong's Blog"
+url     : "https://jeong000307.github.io"
+baseurl : ""
+author  : "jeong000307"
 
 markdown: kramdown
 
@@ -24,6 +25,10 @@ nav:
 # 	link: "/researcher/"
   - name: "Contact"
     link: "contact"
+    ext : "false"
+  - name: "GitHub"
+    link: "https://github.com/jeong000307"
+    ext : "true"
 
 collections:
     Posts:
