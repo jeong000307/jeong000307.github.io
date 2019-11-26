@@ -26,7 +26,7 @@ Hello! I am Gyu-Yong Jeong, a freshman year student of B.E. Computer Engineering
 ## Algorithm Problem Solving
 
 - [USACO](./PS/USACO/index.md)
-- [KOI](./PS/KOI/index.md)
+- ~~[KOI](./PS/KOI/index.md)~~
 
 ## Project
 

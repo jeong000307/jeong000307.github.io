@@ -21,7 +21,7 @@ title: 수능(CSAT) 기출 문제 해설
 
 ## 영어(English)
 
-## 탐구(Science)
+## 과학(Science)
 
 ## 사회(Social Study)
 
