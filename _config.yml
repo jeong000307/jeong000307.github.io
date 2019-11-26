@@ -7,6 +7,10 @@ author  : "jeong000307"
 
 markdown: kramdown
 
+kramdown:
+    input: GFM
+    syntax_hightlighter: rouge
+
 tracking_id: "UA-132865468-1"
 discus-identifier: jeong000307
 
