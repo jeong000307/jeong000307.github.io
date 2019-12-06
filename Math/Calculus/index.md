@@ -16,8 +16,6 @@ title: Calculus
 1. ~~The Tangent and Velocity Problems~~
 2. ~~[The Limit of a Function](./2/2.md)~~ 작성중
 
-I'm working on...
-
 # Reference
 
 - 'Calculus: Early Transcendentals', James Stewart.

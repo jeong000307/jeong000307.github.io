@@ -18,7 +18,7 @@ Hello! I am Gyu-Yong Jeong, a freshman year student of B.E. Computer Engineering
 
 - ~~[General Physics](./Physics/General_Physics/index.md)~~
 
-## For Korean High School Students
+## For Korean Students
 
 - ~~[개념(Concept)](./HS/Concept/index.md)~~
 - [수능(CSAT)](./HS/CSAT/index.md)
