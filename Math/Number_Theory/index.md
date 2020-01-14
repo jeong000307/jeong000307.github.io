@@ -5,13 +5,13 @@ title : Number Theory
 
 ## The Integers
 
-1. Numbers and Sequences
-2. Sums and Products
-3. Mathematical Induction
-4. The Fibonacci Numbers
-5. Divisibility
+- ~~Numbers and Sequences~~
+- ~~Sums and Products~~
+- ~~Mathematical Induction~~
+- ~~The Fibonacci Numbers~~
+- ~~Divisibility~~
 
-I'm working on...
+
 
 # Reference
 

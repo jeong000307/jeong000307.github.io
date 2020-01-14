@@ -5,12 +5,12 @@ title : Set Theory
 
 ## Sets
 
-1. Introductions of Sets
-2. Properties
-3. The Axioms
-4. Elementary Operations on Sets
+- ~~Introductions of Sets~~
+- ~~Properties~~
+- ~~The Axioms~~
+- ~~Elementary Operations on Sets~~
 
-I'm working on...
+
 
 # Reference
 

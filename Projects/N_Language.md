@@ -3,8 +3,6 @@ layout: default
 title: Next Language
 ---
 
-I'm working on.
-
  Name : 'N' Language (Next Language)
 
  GitHub(private) : [GitHub](https://github.com/jeong000307/N-Language)

@@ -1,5 +1,5 @@
 ---
-title : Gyu-Yong Jeong's Homepage
+title : Gyu-Yong Jeong
 layout: default
 ---
 
@@ -8,15 +8,15 @@ layout: default
 Hello! I am Gyu-Yong Jeong, a freshman year student of B.E. Computer Engineering and Science at Sogang University.
 
 ## Mathematics
-
+- [Basic Mathematics](./Math/Basic_Mathematics/index.md)
 - [Calculus](./Math/Calculus/index.md)
-- ~~[Set Theory](./Math/Set_Theory/index.md)~~
-- ~~[Linear Algebra](./Math/Linear_Algebra/index.md)~~
-- ~~[Number Theory](./Math/Number_Theory/index.md)~~
+- [Set Theory](./Math/Set_Theory/index.md)
+- [Linear Algebra](./Math/Linear_Algebra/index.md)
+- [Number Theory](./Math/Number_Theory/index.md)
 
 ## Physics
 
-- ~~[General Physics](./Physics/General_Physics/index.md)~~
+- [General Physics](./Physics/General_Physics/index.md)
 
 <!--
 ## For Korean Students
