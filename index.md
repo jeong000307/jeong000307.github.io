@@ -5,7 +5,7 @@ layout: default
 
 ## About Me
 
-Hello! I am Gyu-Yong Jeong, a freshman year student of B.E. Computer Engineering and Science at Sogang University.
+Hello! I am Gyu-Yong Jeong, a freshman year student of B.S. in Physics Education at Seoul National University.
 
 ## Mathematics
 - [Basic Mathematics](./Math/Basic_Mathematics/index.md)
