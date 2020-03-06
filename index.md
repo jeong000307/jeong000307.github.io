@@ -7,33 +7,21 @@ layout: default
 
 Hello! I am Gyu-Yong Jeong, a freshman year student of B.S. in Physics Education at Seoul National University.
 
-## Mathematics
-- [Basic Mathematics](./Math/Basic_Mathematics/index.md)
-- [Calculus](./Math/Calculus/index.md)
-- [Set Theory](./Math/Set_Theory/index.md)
-- [Linear Algebra](./Math/Linear_Algebra/index.md)
-- [Number Theory](./Math/Number_Theory/index.md)
+## Study
 
-## Physics
+- [Mathematics](./Study/Math/index.md)
+- [Physics](./Study/Physics/index.md)
+- [Biology](./Study/Biology/index.md)
 
-- [General Physics](./Physics/General_Physics/index.md)
+## Research
 
-<!--
-## For Korean Students
-
-- ~~[개념(Concept)](./HS/Concept/index.md)~~
-- [수능(CSAT)](./HS/CSAT/index.md)
--->
-
-## Algorithm Problem Solving
-
-- [USACO](./PS/USACO/index.md)
-- ~~[KOI](./PS/KOI/index.md)~~
-
-## Project
-
-- ['N' Language](./Projects/N_Language.md)
+- ['N' Language](./Research/N_Language.md)
 
 ## Posts
 
+- [Algorithm Problem Solving](./Posts/PS/index.md)
 - [Blog](./Posts/Blog/index.md)
+
+## Tutoring
+
+- [Korean](./Tutoring/Korean/index.md)
