@@ -8,8 +8,8 @@ author  : "jeong000307"
 markdown: kramdown
 
 kramdown:
-    input: GFM
-    syntax_hightlighter: rouge
+    input               : GFM
+    syntax_hightlighter : rouge
 
 plugins:
     - jekyll-relative-links
@@ -29,12 +29,12 @@ collections:
   Tutoring:
     output: true
 
-footer		: yes
+footer		  : yes
 footer_url	: "https://jeong000307.github.io"
 footer_text	: "By Gyu-Yong Jeong"
 
 sass:
-    style: compressed
+    style   : compressed
     sass_dir: _sass
 
 nav:

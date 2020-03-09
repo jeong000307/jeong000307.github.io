@@ -3,16 +3,16 @@ layout: default
 title : Set Theory
 ---
 
-## Sets
+## Chapter
+
+### Sets
 
 - ~~Introductions of Sets~~
 - ~~Properties~~
 - ~~The Axioms~~
 - ~~Elementary Operations on Sets~~
 
-
-
-# Reference
+## Reference
 
 - 'Introduction to Set Theory', Karel Hrbacek, Thomas Jech.
 - 'Elements of Set Theory', Herbert B. Enderton.

@@ -3,7 +3,9 @@ layout: default
 title : Number Theory
 ---
 
-## The Integers
+## Chapter
+
+### The Integers
 
 - ~~Numbers and Sequences~~
 - ~~Sums and Products~~
@@ -11,9 +13,7 @@ title : Number Theory
 - ~~The Fibonacci Numbers~~
 - ~~Divisibility~~
 
-
-
-# Reference
+## Reference
 
 - 'Elementary Number Theory', Kenneth H. Rosen.
 - 'Elementary Number Theory', David M. Burton.

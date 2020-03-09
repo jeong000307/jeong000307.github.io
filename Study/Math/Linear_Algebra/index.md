@@ -3,7 +3,9 @@ layout: default
 title : Linear Algebra
 ---
 
-## Vector Spaces
+## Chapter
+
+### Vector Spaces
 
 - ~~Introduction~~
 - ~~Vector Spaces~~
@@ -13,9 +15,7 @@ title : Linear Algebra
 - ~~Bases and Dimension~~
 - ~~Maximal Linearly Independent Subsets~~
 
-
-
-# Reference
+## Reference
 
 - 'Linear Algebra', Stephen H. Friedberg, Arnold J. Insel, Lawrence E. Spence.
 - 'Linear Algebra', Kenneth Hoffman, Ray Kunze.
