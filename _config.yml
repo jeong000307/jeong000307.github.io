@@ -22,11 +22,13 @@ permalink: none
 collections:
   Study:
     output: true
-  Posts:
+  Post:
     output: true
   Research:
     output: true
   Tutoring:
+    output: true
+  Lecture:
     output: true
 
 footer		  : yes

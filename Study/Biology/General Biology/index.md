@@ -7,7 +7,7 @@ title : General Biology
 
 ### Evolution, the Themes of Biology, and Scientific Inquiry
 
-- ~~The Study of life reveals unifying themes~~
+- [The Study of life reveals unifying themes](./1/1.md)
 - ~~The Core Theme: Evolution accounts for the unity and diversity of life~~
 - ~~In studying nature, scientists make observations and form and test hypotheses~~
 - ~~Science benefits from a cooperative approach and diverse viewpoints~~

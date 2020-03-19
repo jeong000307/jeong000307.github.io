@@ -7,8 +7,8 @@ title : Linear Algebra
 
 ### Vector Spaces
 
-- ~~Introduction~~
-- ~~Vector Spaces~~
+- [Introduction](./1/1.md)
+- [Vector Spaces](./1/2.md)
 - ~~Subspaces~~
 - ~~Linear Combinations and Systems of Linear Equations~~
 - ~~Linear Dependence and Linear Independence~~

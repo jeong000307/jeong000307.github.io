@@ -4,8 +4,8 @@ layout: default
 ---
 
 ## Mathematics
-- [Basic Mathematics](./Basic_Mathematics/index.md)
+- [Basic Mathematics](./Basic Mathematics/index.md)
 - [Calculus](./Calculus/index.md)
-- [Set Theory](./Set_Theory/index.md)
-- [Linear Algebra](./Linear_Algebra/index.md)
-- [Number Theory](./Number_Theory/index.md)
+- [Set Theory](./Set Theory/index.md)
+- [Linear Algebra](./Linear Algebra/index.md)
+- [Number Theory](./Number Theory/index.md)

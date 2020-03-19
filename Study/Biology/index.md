@@ -5,4 +5,4 @@ layout: default
 
 ## Biology
 
-- [General Biology](./General_Biology/index.md)
+- [General Biology](./General Biology/index.md)

@@ -15,12 +15,16 @@ Hello! I am Gyu-Yong Jeong, a freshman year student of B.S. in Physics Education
 
 ## Research
 
-- ['N' Language](./Research/N_Language.md)
+- ['N' Language](./Research/N Language.md)
 
-## Posts
+## Post
 
-- [Algorithm Problem Solving](./Posts/PS/index.md)
-- [Blog](./Posts/Blog/index.md)
+- [Algorithm Problem Solving](./Post/PS/index.md)
+- [Blog](./Post/Blog/index.md)
+
+## Lecture
+
+- [1-1](./Lecture/1-1/index.md)
 
 ## Tutoring
 

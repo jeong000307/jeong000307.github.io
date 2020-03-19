@@ -54,3 +54,37 @@ table tr th :first-child, table tr td :first-child {
 table tr th :last-child, table tr td :last-child {
     margin: 0;
 }
+
+.transtable {
+    margin: 5px 0 5px 0;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0;
+}
+.transtable tr {
+    border-top: 1px solid #FFFFFF;
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+.transtable tr th {
+    font-weight: bold;
+    border: 1px solid #FFFFFF;
+    text-align: left;
+    margin: 0;
+    padding: 5px 15px;
+}
+.transtable tr td {
+    border: 1px solid #FFFFFF;
+    text-align: left;
+    margin: 0;
+    padding: 5px 15px;
+}
+.transtable tr th :first-child, .transtable tr td :first-child {
+    margin: 0;
+}
+.transtable tr th :last-child, .transtable tr td :last-child {
+    margin: 0;
+}
+
