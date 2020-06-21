@@ -105,11 +105,11 @@ title: Calculus
 
 ### Infinite Sequences and Series
 
-- ~~Sequences~~
-- ~~Series~~
-- ~~The Integral Test and Estimates of Sums~~
-- ~~The Comparison Tests~~
-- ~~Alternating Series~~
+- [Sequences](./11/1.md)
+- [Series](./11/2.md)
+- [The Integral Test and Estimates of Sums](./11/3.md)
+- [The Comparison Tests](./11/4.md)
+- [Alternating Series](./11/5.md)
 - ~~Absolute Convergence and the Ratio and Root Tests~~
 - ~~Strategy for Testing Series~~
 - ~~Power Series~~

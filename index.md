@@ -1,11 +1,11 @@
 ---
-title : Gyu-Yong Jeong
+title : Gyuyong Jeong
 layout: default
 ---
 
 ## About Me
 
-Hello! I am Gyu-Yong Jeong, a freshman year student of B.S. in Physics Education at Seoul National University.
+Hello! I am Gyuyong Jeong, a freshman year student of B.S. in Physics Education at Seoul National University.
 
 ## Study
 
