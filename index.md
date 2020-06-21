@@ -21,11 +21,3 @@ Hello! I am Gyuyong Jeong, a freshman year student of B.S. in Physics Education 
 
 - [Algorithm Problem Solving](./Post/PS/index.md)
 - [Blog](./Post/Blog/index.md)
-
-## Lecture
-
-- [1-1](./Lecture/1-1/index.md)
-
-## Tutoring
-
-- [Korean](./Tutoring/Korean/index.md)
