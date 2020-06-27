@@ -5,7 +5,7 @@ layout: default
 
 ## About Me
 
-Hello! I am Gyuyong Jeong, a freshman year student of B.S. in Physics Education at Seoul National University.
+Hello! I am Gyuyong Jeong, a freshman year student of B.S. in Physics Education at Seoul National University. I am interested in Statistical Physics, Information Theory, and Data Science.
 
 ## Study
 
