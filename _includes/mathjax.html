@@ -1,6 +1,22 @@
 <script>
     window.MathJax = {
+        startup: {
+            ready: () => {
+                MathJax.startup.defaultReady();
+                MathJax.startup.document.inputJax[0].preFilters.add((data) => {
+                    if (!data.math.display) {
+                      data.math.math = '\\displaystyle{' + data.math.math + '}';
+                    }
+                });
+            }
+        },
+
+        loader: {
+            load: ['[tex]/ams', '[tex]/physics', '[tex]/cancel'],
+        },
+
         tex: {
+            packages: {'[+]': ['ams', 'physics', 'siunitx', 'cancel']},
             tags: "ams",
             inlineMath: [ ['$', '$'], ['\\(', '\\)'] ],
             displayMath: [ ['$$', '$$'], ['\\[', '\\]'] ],
