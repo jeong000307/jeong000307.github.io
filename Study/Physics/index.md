@@ -1,8 +1,9 @@
 ---
 title : Physics
 layout: default
+comments: false
 ---
 
 ## Physics
 
-- [General Physics](./General Physics/index.md)
+- [Introductory Physics](Introductory Physics/index.md)

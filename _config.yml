@@ -31,6 +31,8 @@ collections:
   Lecture:
     output: true
 
+comments    : yes
+
 footer		  : yes
 footer_url	: "https://jeong000307.github.io"
 footer_text	: "By Gyuyong Jeong"

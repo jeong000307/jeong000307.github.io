@@ -1,6 +1,7 @@
 ---
 layout: default
 is_contact: true
+comments: false
 ---
 
 * Email: [jeong00307@snu.ac.kr](mailto:jeong00307@snu.ac.kr)

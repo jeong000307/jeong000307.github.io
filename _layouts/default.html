@@ -66,7 +66,7 @@
 
         {{ content }}
 
-        {% if page.comments %} 
+        {% if page.comments != false %} 
             <div id="post-disqus" class="container"> 
             {% include disqus.html %} 
             <script id="dsq-count-scr" src="//jeong000307.disqus.com/count.js" async></script>

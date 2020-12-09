@@ -35,6 +35,7 @@ _site
 .sass-cache
 .jekyll-cache
 
+*_bak
 *.cpp
 a.out
 

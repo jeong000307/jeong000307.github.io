@@ -1,8 +1,9 @@
 ---
 title : Biology
 layout: default
+comments: false
 ---
 
 ## Biology
 
-- [General Biology](./General Biology/index.md)
+- [Introductory Biology](./Introductory Biology/index.md)
