@@ -19,7 +19,9 @@ Hello! I am Gyuyong Jeong, a freshman year student of B.S. in Physics Education 
 
 - ['N' Language](Research/N Language.md)
 
+<!--
 ## Post
 
 - [Algorithm Problem Solving](Post/PS/index.md)
 - [Blog](Post/Blog/index.md)
+-->
