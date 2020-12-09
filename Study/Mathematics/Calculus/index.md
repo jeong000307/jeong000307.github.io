@@ -9,7 +9,7 @@ comments: false
 ### Series
 
 - [Sequence and Series](1/1.md)
-- ~~Geometric Series~~
+- [Geometric Series](1/2.md)
 - ~~Comparison Test~~
 - ~~Root Test~~
 - ~~Ratio Test~~
