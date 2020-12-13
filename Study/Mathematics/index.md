@@ -1,7 +1,6 @@
 ---
 title : Mathematics
 layout: default
-comments: false
 ---
 
 ## Mathematics

@@ -1,7 +1,6 @@
 ---
 title : Biology
 layout: default
-comments: false
 ---
 
 ## Biology

@@ -1,7 +1,6 @@
 ---
 title : Physics
 layout: default
-comments: false
 ---
 
 ## Physics

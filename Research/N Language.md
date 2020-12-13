@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Next Language
-comments: false
 ---
 
  Name : 'N' Language (Next Language)

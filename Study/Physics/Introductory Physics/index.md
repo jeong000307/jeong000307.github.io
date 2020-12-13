@@ -1,7 +1,6 @@
 ---
 layout: default
 title : Introductory Physics
-comments: false
 ---
 
 ## Chapter
@@ -9,6 +8,9 @@ comments: false
 ### Measurement
 
 ### Motion Along a Straight Line
+
+- ~~Concepts~~
+- [Problems](2/2.md)
 
 ### Vectors
 

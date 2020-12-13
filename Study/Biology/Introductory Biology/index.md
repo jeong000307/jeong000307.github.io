@@ -1,7 +1,6 @@
 ---
 layout: default
 title : Introductory Biology
-comments: false
 ---
 
 ## Chapter

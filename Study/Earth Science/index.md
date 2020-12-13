@@ -1,7 +1,6 @@
 ---
 title : Earth Science
 layout: default
-comments: false
 ---
 
 ## Earth Science

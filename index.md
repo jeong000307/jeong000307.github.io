@@ -1,7 +1,6 @@
 ---
 title : Jeong Gyu-yong
 layout: default
-comments: false
 ---
 
 ## About Me

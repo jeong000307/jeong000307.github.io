@@ -1,7 +1,6 @@
 ---
 layout: default
 title : Introductory Earth Science
-comments: false
 ---
 
 ## Chapter
