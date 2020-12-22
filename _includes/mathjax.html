@@ -3,11 +3,11 @@
         startup: {
             ready: () => {
                 MathJax.startup.defaultReady();
-                MathJax.startup.document.inputJax[0].preFilters.add((data) => {
+                /* MathJax.startup.document.inputJax[0].preFilters.add((data) => {
                     if (!data.math.display) {
-                      data.math.math = '\\displaystyle{' + data.math.math + '}';
+                        data.math.math = '\\displaystyle{' + data.math.math + '}';
                     }
-                });
+                });*/
             }
         },
 

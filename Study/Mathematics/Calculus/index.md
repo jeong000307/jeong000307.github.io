@@ -9,12 +9,12 @@ title: Calculus
 
 - [Sequence and Series](1/1.md)
 - [Geometric Series](1/2.md)
-- ~~Comparison Test~~
-- ~~Root Test~~
-- ~~Ratio Test~~
-- ~~Integral Test~~
-- ~~Alternating Series and Absolute Convergence~~
-- ~~Real Numbers~~
+- [Comparison Test](1/3.md)
+- [Root Test](1/4.md)
+- [Ratio Test](1/5.md)
+- [Integral Test](1/6.md)
+- [Alternating Series and Absolute Convergence](1/7.md)
+- [Appendix: Real Numbers](1/8.md)
 
 ### Power Series
 
@@ -24,7 +24,7 @@ title: Calculus
 - ~~Power Series of Trigonometric Functions~~
 - ~~Hyperbolic Functions~~
 - ~~Inverse Trigonometric Functions~~
-- ~~Differential Equations and Some Proofs~~
+- ~~Appendix: Differential Equations and Some Proofs~~
 
 ### Taylor Expansion
 
@@ -33,14 +33,14 @@ title: Calculus
 - ~~Linear and Polynomial Approximations~~
 - ~~Taylor’s Theorem~~
 - ~~Taylor Series~~
-- ~~Taylor Expansion at an Arbitrary Point~~
+- ~~Appendix: Taylor Expansion at an Arbitrary Point~~
 
 ### Space and Coordinate System
 
 - ~~Cartesian Spaces~~
 - ~~Polar Coordinates~~
 - ~~Cylindrical and Spherical Coordinates~~
-- ~~Euclidean Spaces~~
+- ~~Appendix: Euclidean Spaces~~
 
 ### Vectors
 
@@ -49,26 +49,26 @@ title: Calculus
 - ~~The Inner Product~~
 - ~~Equations of Lines and Planes~~
 - ~~Linear Dependence and Independence~~
-- ~~Basis and Dimensions of Spaces~~
+- ~~Appendix: Basis and Dimensions of Spaces~~
 
 ### Matrices and Linear Transformations
 
 - ~~Matrices~~
 - ~~Linear Transformations~~
-- ~~Isometries and Limits of Matrices~~
+- ~~Appendix: Isometries and Limits of Matrices~~
 
 ### Square Matrices and Determinants
 
 - ~~Inverse Matrices~~
 - ~~Permutations~~
 - ~~Determinants~~
-- ~~Signs of Permutations and Properties of Determinants~~
+- ~~Appendix: Signs of Permutations and Properties of Determinants~~
 
 ### Three-Dimensional space and the Cross Product
 
 - ~~The Cross Product~~
 - ~~Cross Products and Matrices~~
-- ~~Torque~~
+- ~~Appendix: Torque~~
 
 ### Curves
 
@@ -80,7 +80,7 @@ title: Calculus
 - ~~Arc Length and Reparametrization~~
 - ~~Line Integrals~~
 - ~~Curvature~~
-- ~~Catenary, Closed Curves, and Tautochrone~~
+- ~~Appendix: Catenary, Closed Curves, and Tautochrone~~
 
 ### Multivariable Functions
 
@@ -90,7 +90,7 @@ title: Calculus
 - ~~Differentiable Function~~
 - ~~Chain Rule~~
 - ~~Gradient Vector and Level Surface~~
-- ~~Continuously Differentiable Functions, Open Sets, Closed Sets, and Bounded Sets~~
+- ~~Appendix: Continuously Differentiable Functions, Open Sets, Closed Sets, and Bounded Sets~~
 
 ### Maxima, Minima and Higher-order Derivatives
 
@@ -100,12 +100,12 @@ title: Calculus
 - ~~Critical Point Theorem~~
 - ~~Hessian, Second Derivative Test~~
 - ~~Lagrange Multipliers~~
-- ~~Proof of Leibniz’s Rule and Calculus of Variations~~
+- ~~Appendix: Proof of Leibniz’s Rule and Calculus of Variations~~
 
 ### Vector-valued Functions
 
 - ~~Jacobian Matrix~~
-- ~~Inverse Function Theorem and Implicit Function Theorem~~
+- ~~Appendix: Inverse Function Theorem and Implicit Function Theorem~~
 
 ### Vector Fields and Line Integrals
 
@@ -113,7 +113,7 @@ title: Calculus
 - ~~Line Integral~~
 - ~~Potential Function~~
 - ~~Differential Form~~
-- ~~Proof of Poincaré’s Lemma, Principle of Stationary Action, and Dynamical Systems~~
+- ~~Appendix: Proof of Poincaré’s Lemma, Principle of Stationary Action, and Dynamical Systems~~
 
 ### Multiple Integrals
 
@@ -121,7 +121,7 @@ title: Calculus
 - ~~Multiple Integral~~
 - ~~Fubini’s Theorem~~
 - ~~Change of Variables~~
-- ~~Proof of Fubini’s Theorem and Moment of Inertia~~
+- ~~Appendix: Proof of Fubini’s Theorem and Moment of Inertia~~
 
 ### Divergence and Green's Theorem
 
@@ -130,7 +130,7 @@ title: Calculus
 - ~~Plane Vector Field and Rotation~~
 - ~~Boundary and Orientation~~
 - ~~Green’s Theorem~~
-- ~~Divergence and Change of Volume~~
+- ~~Appendix: Divergence and Change of Volume~~
 
 ### Surfaces and Surface Integrals
 
@@ -143,13 +143,13 @@ title: Calculus
 
 - ~~Divergence Theorem~~
 - ~~Gauss’ Law~~
-- ~~Proof of Divergence Theorem and Newton's Gravitational Equation~~
+- ~~Appendix: Proof of Divergence Theorem and Newton's Gravitational Equation~~
 
 ### Curl and Stokes' Theorem
 
 - ~~Curl~~
 - ~~Stokes’ Theorem~~
-- ~~Proof of Stokes' Theorem and Derivatives of Vector Fields~~
+- ~~Appendix: Proof of Stokes' Theorem and Derivatives of Vector Fields~~
 
 <!--
 - [Geometric Series](1/2.md)
