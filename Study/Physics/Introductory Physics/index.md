@@ -6,24 +6,20 @@ title : Introductory Physics
 ## Chapter
 
 ### Measurement
-
 - [Concepts](1/1.md)
 - [Problems](1/2.md)
 
 ### Motion Along a Straight Line
-
 - [Concepts](2/1.md)
 - [Problems](2/2.md)
 
 ### Vectors
 
 ### Motion in Two and Three Dimensions
-
 - ~~Concepts~~
 - [Problems](4/2.md)
 
 ### Force and Motion - I
-
 - ~~Concepts~~
 - [Problems](5/2.md)
 
