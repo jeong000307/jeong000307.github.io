@@ -14,6 +14,8 @@ title : Introductory Physics
 - [Problems](2/2.md)
 
 ### Vectors
+- [Concepts](3/1.md)
+- [Problems](3/2.md)
 
 ### Motion in Two and Three Dimensions
 - [Concepts](4/1.md)

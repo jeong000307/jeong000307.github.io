@@ -10,9 +10,7 @@ Hello! I am Jeong Gyu-yong, a freshman year student of B.S. in Physics Education
 ## Study
 
 - [Mathematics](Study/Mathematics/index.md)
-- [Physics](Study/Physics/index.md)
-- [Biology](Study/Biology/index.md)
-- [Earth Science](Study/Earth Science/index.md)
+- [Science](Study/Science/index.md)
 
 ## Research
 
