@@ -258,7 +258,7 @@ title: Basic Mathematics
 #### Logic
 
 - [Proposition and Condition]()
-    - 명제, 부정, 역, 이, 대우, 
+    - 명제, 부정, 역, 이, 대우
 
 - [Axiom, Theorem, Proof]()
     - 공리, 정리, 증명, 귀류법
