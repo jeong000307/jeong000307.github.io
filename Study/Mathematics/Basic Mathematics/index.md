@@ -197,7 +197,7 @@ title: Basic Mathematics
 #### Limit
 
 - [Limit of Function]()
-    - 함수의 극한, 극한의 성질, 다변수 함수의 극한, 조임 정리
+    - 함수의 극한, $\epsilon-\delta$ 논법, 극한의 성질, 다변수 함수의 극한, 조임 정리
 
 - [Continuity]()
     - 연속, 최대 최소 정리, 사잇값 정리, 다변수 함수의 연속
