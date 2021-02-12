@@ -9,7 +9,7 @@ title: Basic Mathematics
 
 #### Numbers
 
-- [Natural Number and Integer]()
+- [Natural Number and Integer](1/1.md)
     - 자연수, 정수, $0$
 
 - [Rational and Irrational Number]()
